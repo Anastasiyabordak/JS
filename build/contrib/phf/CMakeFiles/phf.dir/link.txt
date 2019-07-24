@@ -1,0 +1,2 @@
+/usr/bin/ar qc libphf.a  CMakeFiles/phf.dir/phf.cc.o
+/usr/bin/ranlib libphf.a

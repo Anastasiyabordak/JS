@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtsl.a  CMakeFiles/tsl.dir/robin_map.cpp.o
+/usr/bin/ranlib libtsl.a

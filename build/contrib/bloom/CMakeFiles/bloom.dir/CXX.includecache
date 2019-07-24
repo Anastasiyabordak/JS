@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anastasiya/JamSpell/contrib/bloom/bloom_filter.cpp
+bloom_filter.hpp
+/home/anastasiya/JamSpell/contrib/bloom/bloom_filter.hpp
+
+/home/anastasiya/JamSpell/contrib/bloom/bloom_filter.hpp
+algorithm
+-
+cmath
+-
+cstddef
+-
+cstdlib
+-
+iterator
+-
+limits
+-
+string
+-
+vector
+-
+

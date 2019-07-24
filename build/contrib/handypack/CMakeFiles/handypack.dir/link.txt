@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhandypack.a  CMakeFiles/handypack.dir/handypack.cpp.o
+/usr/bin/ranlib libhandypack.a

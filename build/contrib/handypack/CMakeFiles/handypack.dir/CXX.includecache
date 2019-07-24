@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anastasiya/JamSpell/contrib/handypack/handypack.cpp
+handypack.hpp
+/home/anastasiya/JamSpell/contrib/handypack/handypack.hpp
+
+/home/anastasiya/JamSpell/contrib/handypack/handypack.hpp
+string
+-
+vector
+-
+list
+-
+map
+-
+unordered_map
+-
+set
+-
+unordered_set
+-
+utility
+-
+iostream
+-
+streambuf
+-
+tuple
+-
+

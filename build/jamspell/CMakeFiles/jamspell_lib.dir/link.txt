@@ -1,0 +1,2 @@
+/usr/bin/ar qc libjamspell_lib.a  CMakeFiles/jamspell_lib.dir/spell_corrector.cpp.o CMakeFiles/jamspell_lib.dir/lang_model.cpp.o CMakeFiles/jamspell_lib.dir/utils.cpp.o CMakeFiles/jamspell_lib.dir/perfect_hash.cpp.o CMakeFiles/jamspell_lib.dir/bloom_filter.cpp.o
+/usr/bin/ranlib libjamspell_lib.a

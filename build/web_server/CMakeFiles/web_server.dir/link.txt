@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -fPIC -g   CMakeFiles/web_server.dir/main.cpp.o  -o web_server  -L/home/anastasiya/JamSpell/build/jamspell -Wl,-rpath,/home/anastasiya/JamSpell/build/jamspell -rdynamic ../jamspell/libjamspell_lib.a -lpthread ../contrib/phf/libphf.a ../contrib/cityhash/libcityhash.a 
